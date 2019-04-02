@@ -21,6 +21,7 @@
         android:textStyle="bold"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
+        android:onClick="openNumbersList"
         app:layout_constraintTop_toTopOf="parent" />
 
     <Button
