@@ -8,7 +8,7 @@
     <color name="colorPrimaryDark">#301D1A</color>
 
     <!-- Background color for app -->
-    <color name="tan_background">#FFF7DA</color>
+    <color name="colorAccent">#FFF7DA</color>
 
     <!-- Background color for the numbers category -->
     <color name="category_numbers">#FD8E09</color>
